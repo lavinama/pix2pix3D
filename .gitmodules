@@ -1,3 +1,6 @@
 [submodule "dataset_scripts/Deep3DFaceRecon_pytorch"]
 	path = dataset_scripts/Deep3DFaceRecon_pytorch
 	url = https://github.com/sicxu/Deep3DFaceRecon_pytorch.git
+[submodule "dataset_scripts/eg3d"]
+	path = dataset_scripts/eg3d
+	url = https://lavinama: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@github.com/lavinama/eg3d.git
